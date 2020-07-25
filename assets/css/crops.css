@@ -1,0 +1,32 @@
+.row {
+  padding: 20px 0 50px 0;
+}
+
+.card {
+  margin: 20px 0 20px 0;
+  overflow: hidden;
+}
+
+.card-img-top {
+  position: relative;
+  height: 295px;
+}
+
+.card-body {
+  padding-top: 10px;
+  width: 100%;
+  background-color: rgba(53, 34, 23, 0.7);
+  color: white;
+  position: absolute;
+  bottom: -200px;
+  transition: bottom 0.5s;
+}
+
+.card-body:hover {
+  bottom: 0px;
+}
+
+.card-btn {
+  width: 100%;
+  z-index: 1;
+}

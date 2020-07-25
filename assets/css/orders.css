@@ -1,0 +1,13 @@
+.btn-success {
+  float: right;
+  margin: 10px 0 10px 0;
+}
+
+table tr td {
+  vertical-align: middle !important;
+}
+
+.row-img {
+  width: 50px;
+  height: 60px;
+}

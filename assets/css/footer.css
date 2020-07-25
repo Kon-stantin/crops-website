@@ -1,0 +1,15 @@
+/* footer */
+.footer {
+  z-index: 2;
+  width: 100%;
+  bottom: 0;
+  position: fixed;
+  border: 1px solid black;
+  background-color: rgb(53, 34, 23);
+  color: #fff;
+}
+
+.footer .container {
+  margin-top: 1%;
+  text-align: center;
+}
